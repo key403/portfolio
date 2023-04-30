@@ -4182,3 +4182,7 @@ input, select, textarea {
 		align-items: center;
 		gap: 1rem;
 	}
+
+	.back {
+		justify-content: center;
+	}
